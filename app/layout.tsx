@@ -9,7 +9,7 @@ const open_sans = Open_Sans({ subsets: ['latin'] });
 export const metadata = {
   title: 'Linear LandingPage',
   description:
-    "Linear's landing page recreated by https://twitter.com/rogue_kitten404",
+    "Linear's landing page recreated by Gaurav Shukla",
 };
 
 export default function RootLayout({
