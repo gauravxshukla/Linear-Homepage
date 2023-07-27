@@ -7,7 +7,7 @@ import './globals.css';
 const open_sans = Open_Sans({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Linear LandingPage',
+  title: 'Linear Landing Page',
   description:
     "Linear's landing page recreated by Gaurav Shukla",
 };
