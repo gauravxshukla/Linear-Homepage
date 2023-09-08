@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Linear Webpage Recreated
+
+Welcome to the recreation of the Linear website page! We've taken the sleek and elegant design of Linear's web page and brought it to life using Next.js and Framer Motion, creating an interactive and visually stunning experience.
+
+![Linear Website Page Recreation](linear-recreation-screenshot.png)
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+
+## Demo
+
+Experience the recreated Linear website page live by visiting the [Demo](https://linear.thegauravshukla.me/) page.
+
+## Features
+
+- An interactive recreation of the Linear website page.
+- Smooth animations and transitions powered by Framer Motion.
+- Responsive design for a seamless experience across devices.
+- Next.js for optimized performance and routing.
 
 ## Getting Started
 
-First, run the development server:
+To run this recreation locally on your machine, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Clone this repository to your local machine using Git:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/yourusername/linear-website-recreation.git
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Install the dependencies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```bash
+   cd linear-website-recreation
+   npm install
+   ```
 
-## Learn More
+3. Start the development server:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore the Linear Website Page Recreation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Relive the elegance of the Linear website page with our recreation, built with Next.js and Framer Motion.
