@@ -28,13 +28,13 @@ To run this recreation locally on your machine, follow these steps:
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/linear-website-recreation.git
+   git clone https://github.com/gauravvv-shukla/Linear-Homepage.git
    ```
 
 2. Install the dependencies:
 
    ```bash
-   cd linear-website-recreation
+   cd linear-homepage
    npm install
    ```
 
