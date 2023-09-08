@@ -17,7 +17,7 @@ Experience the recreated Linear website page live by visiting the [Demo](https:/
 ## Features
 
 - An interactive recreation of the Linear website page.
-- Smooth animations and transitions powered by Framer Motion.
+- Smooth animations and transitions powered by Tailwind CSS.
 - Responsive design for a seamless experience across devices.
 - Next.js for optimized performance and routing.
 
@@ -48,4 +48,4 @@ To run this recreation locally on your machine, follow these steps:
 
 ---
 
-Relive the elegance of the Linear website page with our recreation, built with Next.js and Framer Motion.
+Relive the elegance of the Linear website page with our recreation, built with Next.js and Tailwind CSS.
