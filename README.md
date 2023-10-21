@@ -12,7 +12,7 @@ Welcome to the recreation of the Linear website page! We've taken the sleek and 
 
 ## Demo
 
-Experience the recreated Linear website page live by visiting the [Demo](https://linear.thegauravshukla.me/) page.
+Experience the recreated Linear website page live by visiting the [Demo](https://linear.gauravxshukla.me/) page.
 
 ## Features
 
